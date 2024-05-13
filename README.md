@@ -1,8 +1,8 @@
-#### Note: The QuickSight dashboards created for this project are not publicly shareable. Access is restricted to QuickSight users who have been granted permission. Screenshots and a PDF version of the dashboard have been provided in this repository for reference.
-
 # AWS Data Engineering YouTube Data Analysis Project
 
-# Project Accomplishments: Managing, Streamlining, and Analyzing Structured and Semi-structured YouTube Video Data
+#### Note: The QuickSight dashboards created for this project are not publicly shareable. Access is restricted to QuickSight users who have been granted permission. Screenshots and a PDF version of the dashboard have been provided in this repository for reference.
+
+#### Project Accomplishments: Managing, Streamlining, and Analyzing Structured and Semi-structured YouTube Video Data
 
 ## Project Goals Achieved:
 1. **Data Ingestion** — A mechanism was built to ingest data from different sources.
