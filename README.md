@@ -21,6 +21,8 @@
 6. **AWS Athena** — Interactive query service for S3 was employed, eliminating the need to load data as it stays in S3.
 
 ## Dataset Employed:
+### Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 - The Kaggle dataset containing statistics (CSV files) on daily popular YouTube videos over many months has been utilized. Up to 200 trending videos published every day for many locations were analyzed. 
 - The data for each region was stored in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count were among the items included in the data. 
 - A category_id field, differing by area, was also included in the JSON file linked to the region.
