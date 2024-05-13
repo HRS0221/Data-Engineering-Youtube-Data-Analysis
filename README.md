@@ -27,4 +27,12 @@
 - The data for each region was stored in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count were among the items included in the data. 
 - A category_id field, differing by area, was also included in the JSON file linked to the region.
 
+
+    <iframe
+        width="960"
+        height="720"
+        src="https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/860339006901/dashboards/95b50ac2-a457-4866-899d-f689f95bca1d?directory_alias=himanshusalunke">
+    </iframe>
+
+
 ![Architecture](https://github.com/HRS0221/Data-Engineering-Youtube-Data-Analysis/blob/main/architecture.jpeg)
