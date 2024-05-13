@@ -1,4 +1,4 @@
-# Data-Engineering-Youtube-Data-Analysis
+# Data Engineering YouTube Data Analysis Project
 AWS Data Engineering Project
 
 # Project Accomplishments: Managing, Streamlining, and Analyzing Structured and Semi-structured YouTube Video Data
